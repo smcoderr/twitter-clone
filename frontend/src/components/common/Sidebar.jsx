@@ -38,7 +38,7 @@ const Sidebar = () => {
 			})
 		},
 		onError: () => {
-			toast.error("Logout Unsuccessful")
+			toast.error("Logout Unsuccessful");
 		}
 	})
 
